@@ -2,6 +2,7 @@ Implementação em Python de dois métodos de otimização irrestrita
 utilizando problemas padrão da biblioteca PyCUTEst: 
 
 • Método Gradiente Descendente com busca de Armijo (GDA) [1]
+
 • Método Espectral com variante não monótona (GBB) [2]
 
 O código executa ambos os algoritmos no mesmo problema CUTEst, mede tempo,
